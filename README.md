@@ -1,10 +1,8 @@
 FE
 ==
 
-code and learning about fe
+front-end javascript libs and frames
 
 include
 
 *   charts
-*   bootstrap
-*   FU project
